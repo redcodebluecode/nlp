@@ -1,5 +1,5 @@
 # nlp  
-This is a repository to store the script artifacts for the Natural Language Processing (NLP) project.  
+This is a repository to store the script artifacts for the Natural Language Processing (NLP) projects.  
 
 ## nlp_imdb_classification  
 - NLP IMBD Text Classification Project
